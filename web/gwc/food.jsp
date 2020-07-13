@@ -14,7 +14,7 @@
     <input type="submit" name="gouwu" value="购物">
     <br />
     <br />
-    <a href="loginID.jsp">修改个人信息！</a>
+    <a href="loginID.jsp">修改个人信息  ！</a>
     <a href="count.jsp">欢迎查看购物车！</a>
         <%
 	request.setCharacterEncoding("GB2312");

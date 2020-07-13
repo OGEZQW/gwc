@@ -7,7 +7,8 @@
 <body>
 <form action="shop.jsp"  method="post">
     <h3>欢迎来到网上超市，请登录:</h3>
-    <input type="text" name="id">
+    账号：<input type="text" name="id"><br>
+    密码：<input type="password" name="password"><br>
     <input type="submit" name=sub value="提交">
 </body>
 </html>
